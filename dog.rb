@@ -7,3 +7,7 @@ end
 dog = Dog.new
 
 dog.bark
+
+dog2 = Dog.new
+
+dog2.bark
