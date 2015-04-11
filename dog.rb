@@ -1,6 +1,9 @@
 class Dog
+
+  DOG_SOUND = 'Woof!'
+
   def bark
-    puts 'Woof!'
+    puts DOG_SOUND
   end
 end
 
